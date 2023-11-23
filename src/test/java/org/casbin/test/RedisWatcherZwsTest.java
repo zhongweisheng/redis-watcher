@@ -75,6 +75,7 @@ public class RedisWatcherZwsTest {
         List<List<String>> list00 = enforcer.getPolicy();
         List<List<String>> list11 = enforcer1.getPolicy();
 
+
         System.out.println(list11);
 
         list11 = enforcer1.getPolicy();
